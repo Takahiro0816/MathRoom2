@@ -1,4 +1,4 @@
-
+config.web_console.devel
 require_relative 'boot'
 
 require 'rails/all'
